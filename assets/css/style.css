@@ -403,11 +403,7 @@ input.modal-input {
 }
 /* Mobile */
 @media screen and (max-width: 46.188em) {
-    .mobile {
-    }
-}
-/* Tablet */
-@media screen and (min-width: 46.25em) and (max-width: 63.938em) {
-    .tablet {
+    .col-third {
+        width: 100%;
     }
 }
