@@ -1,4 +1,3 @@
-/* reset css */
 /* common */
 * {
     padding: 0;
@@ -320,6 +319,7 @@ input.modal-input {
     margin: 16px 0 16px;
     background-color: #009688;
     border: none;
+    cursor: pointer;
 }
 #buy-tickets:hover {
     color: #000;
