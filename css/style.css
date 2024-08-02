@@ -157,6 +157,7 @@ html {
 #slider .text-description {
     font-size: 15px;
     margin-top: 25px;
+    text-shadow: 0 0 1px #000;
 }
 #content .section-content {
     width: 800px;
@@ -381,6 +382,8 @@ input.modal-input {
     float: right;
     border: none;
     cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
 }
 .contact-form .form-submit-btn:hover {
     color: #000;
